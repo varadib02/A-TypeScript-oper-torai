@@ -6,6 +6,8 @@ body {
 
 p {
   margin: 5px;
+  text-align: justify;
+  line-height: 120%;
 }
 
 #content {
@@ -19,6 +21,7 @@ p {
 
 a {
   color: black;
+  
 }
 
 #picture {
@@ -39,6 +42,7 @@ li {
 table {
   width: 80%;
   margin: auto;
+  text-align: center;
 }
 span{
   color: #087ac8 bold;
