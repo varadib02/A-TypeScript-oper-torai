@@ -6,7 +6,6 @@ body {
 
 p {
   margin: 5px;
-  text-indent: 20px;
 }
 
 #content {
@@ -43,4 +42,10 @@ table {
 }
 span{
   color: #087ac8 bold;
+}
+.osze{
+  font-family: 'Courier New', Courier, monospace bold;
+  font-size: 1.8rem;
+  text-indent: 0px;
+  text-align: center;
 }
